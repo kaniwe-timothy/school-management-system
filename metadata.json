@@ -1,0 +1,6 @@
+{
+  "name": "Crestwood School Ledger",
+  "description": "Local school management system with dedicated dashboards for the School Owner, Head Teacher, Bursar, and Academic Registrar covering payroll, expenses, student fees, and defaulters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
