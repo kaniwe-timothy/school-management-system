@@ -5,7 +5,7 @@ fee payments with QR receipts, defaulters, staff payroll, expenses and owner
 approvals — all in UGX — with separate dashboards for the **School Owner**,
 **Head Teacher**, **Bursar** and **Academic Registrar**.
 
-**Open it:** https://kaniwe-timothy.github.io/crestwood-school-ledger/
+**Open it:** https://kaniwe-timothy.github.io/school-management-system/
 
 ## How it works
 
@@ -19,7 +19,7 @@ The whole app is a single HTML page. There is no server and no monthly cost:
   file, and restore it on another device. Clearing the browser's site data
   deletes the records, so keep backups.
 
-You can also download `crestwood-school-ledger.html` from the latest build and
+You can also save the page as `School Management System.html` and
 open it straight from a phone or computer — it works offline (fonts fall back
 to system fonts without internet).
 
